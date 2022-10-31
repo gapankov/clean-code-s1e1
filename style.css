@@ -18,8 +18,11 @@
 }
 
 @media (max-width:768px) {
-  .div__more { text-align: center;
+
+  .div__more { 
+    text-align: center;
   }
+  
 }
 .main-page__element {
   display: block;
